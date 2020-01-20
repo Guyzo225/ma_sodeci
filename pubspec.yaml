@@ -143,9 +143,15 @@ flutter:
   # list giving the asset and other descriptors for the font. For
   # example:
   fonts:
-     - family: Myriad
-       fonts:
-         - asset: fonts/MYRIADPRO_REGULAR.OTF
+    - family: Myriad
+      fonts:
+        - asset: fonts/MYRIADPRO_REGULAR.OTF
+    - family: Myriad bold
+      fonts:
+        - asset: fonts/myriadpro-bold.otf
+    - family: Myriad light
+      fonts:
+        - asset: fonts/myriadpro-light.otf
   #       - asset: fonts/Schyler-Italic.ttf
   #         style: italic
   #   - family: Trajan Pro

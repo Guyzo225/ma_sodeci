@@ -34,8 +34,6 @@ class AppConstant {
   static const USER_INFO_CONTENT_DIAMETRE_20 = "Il s'agit d'un client qui reçoit une facture tous les trois (3) mois soit qutre (4) factures dans l'année. Le diamètre 20 est installé à la demande du client lors du dépôt du dossier ou à la suite d'une demande de changement de diamètre.";
   static const USER_INFO_BOTTOM_DIAMETRE_20 = 'La détermination du montant de la facture à payer se fait sur la base du cubage consommé. Le cubage consommé se détermine par la différence entre "nouvel index" et "ancien index". Ainsi, selon la tranche du cubage (0-9 ou 9-18 ) un montant est fixé comme le montre le tableau ci-dessus.';
 
-
-
   static const ALL_FACTURE = "all_facture";
 
   static const URL_FACTURE_DOWNLOAD =
